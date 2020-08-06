@@ -1,4 +1,5 @@
 #!/bin/bash
+#this program counts till 5 and breaks
 valid=true
 count=1
 while [ $valid ]
